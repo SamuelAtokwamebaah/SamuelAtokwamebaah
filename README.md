@@ -34,4 +34,4 @@ fraud schemes I detected by hand as an operator.
 I write *The Multinational Mindset*, a monthly newsletter on global markets and
 financial services.
 
-[LinkedIn](https://linkedin.com/in/samuelatokwamebaah) · samatohobbs@gmail.com
+[Portfolio and CV](https://sakb.netlify.app) · [LinkedIn](https://linkedin.com/in/samuelatokwamebaah) · samatohobbs@gmail.com
