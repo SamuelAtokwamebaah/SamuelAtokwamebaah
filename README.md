@@ -1,7 +1,7 @@
 # Samuel Ato Kwame Baah
 
-**Financial operations and compliance in Accra, Ghana. Moving into risk, fraud
-and financial-crime analytics.**
+**Business and data analyst in Accra, Ghana. Financial services, compliance
+and fraud detection.**
 
 Seven years in Ghana's microfinance and regulated financial services sector, four
 and a half of them on the PwC Ghana-led receivership that resolved the 370+
