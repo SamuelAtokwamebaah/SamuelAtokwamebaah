@@ -1,7 +1,7 @@
 # Samuel Ato Kwame Baah
 
-**Business and data analyst in Accra, Ghana. Financial services, compliance
-and fraud detection.**
+**Business and data analyst, Ghana. Financial services, compliance
+and fraud detection.in Accra**
 
 Seven years in Ghana's microfinance and regulated financial services sector, four
 and a half of them on the PwC Ghana-led receivership that resolved the 370+
