@@ -19,8 +19,8 @@ B.Sc. Business Administration (GPA 3.80) both in progress.
 is an open dataset of the 418 institutions resolved in the clean-up, compiled
 from Bank of Ghana primary sources, with a hand-verified analysis of why the 23
 savings and loans companies failed. Related-party lending appears in 17 of the
-23, and every institution with a stated insolvency date was held past the
-180-day statutory deadline in Act 930.
+23, and institutions the regulator had determined to be insolvent kept their
+deposit-taking licences for a median of two and a half years.
 
 [Read the findings](https://samuelatokwamebaah.github.io/ghana-banking-collapse)
 
