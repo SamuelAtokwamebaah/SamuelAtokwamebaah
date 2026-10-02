@@ -24,10 +24,22 @@ deposit-taking licences for a median of two and a half years.
 
 [Read the findings](https://samuelatokwamebaah.github.io/ghana-banking-collapse)
 
+**[microfinance-fraud-detection](https://github.com/SamuelAtokwamebaah/microfinance-fraud-detection)**
+asks the next question: how much of a fraud of this kind would detection
+actually catch. SQL rules and Python anomaly detection run over a synthetic
+24-month loan book of 3,000 borrowers with a repayment-skimming scheme injected
+into it, modelled on schemes I found by hand as an operator. It ranks the guilty
+officers first and second, and identifies 29% of the skimmed money. It reports
+the second number as plainly as the first.
+
+[Open the case dashboard](https://samuelatokwamebaah.github.io/microfinance-fraud-detection)
+
 ## In development
 
-SQL and Python anomaly detection over synthetic loan-portfolio data, modelled on
-fraud schemes I detected by hand as an operator.
+A network analysis of the insider relationships behind the 2019 savings and
+loans failures, built only from what regulators and the courts have published,
+and a journal paper on supervisory timing under Act 930, currently under peer
+review.
 
 ## Elsewhere
 
