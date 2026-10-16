@@ -4,7 +4,7 @@
 detection. Based in Accra, Ghana.**
 
 Seven years in Ghana's microfinance and regulated financial services sector, four
-and a half of them on the PwC Ghana-led receivership that resolved the 370+
+and a half of them on the PwC Ghana-led receivership that handled 370 of the
 institutions closed in the 2017–2019 banking-sector clean-up: claims resolution,
 AML/KYC verification, fraud detection, and five branches with 100+ staff
 reporting in. I am now building the analytics layer on top of that operational
@@ -13,14 +13,14 @@ B.Sc. Business Administration (GPA 3.80) both in progress.
 
 ## Flagship work
 
-[![DOI](https://zenodo.org/badge/1349480692.svg)](https://doi.org/10.5281/zenodo.22163244)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22163244.svg)](https://doi.org/10.5281/zenodo.22163244)
 
 **[ghana-banking-collapse](https://github.com/SamuelAtokwamebaah/ghana-banking-collapse)**
 is an open dataset of the 418 institutions resolved in the clean-up, compiled
 from Bank of Ghana primary sources, with a hand-verified analysis of why the 23
 savings and loans companies failed. Related-party lending appears in 17 of the
 23, and institutions the regulator had determined to be insolvent kept their
-deposit-taking licences for a median of two and a half years.
+deposit-taking licences for a median of more than two years.
 
 [Read the findings](https://samuelatokwamebaah.github.io/ghana-banking-collapse)
 
@@ -28,9 +28,11 @@ deposit-taking licences for a median of two and a half years.
 asks the next question: how much of a fraud of this kind would detection
 actually catch. SQL rules and Python anomaly detection run over a synthetic
 24-month loan book of 3,000 borrowers with a repayment-skimming scheme injected
-into it, modelled on schemes I found by hand as an operator. It ranks the guilty
-officers first and second, and identifies 29% of the skimmed money. It reports
-the second number as plainly as the first.
+into it, modelled on schemes I found by hand as an operator. Across 20
+independently generated portfolios it puts a guilty officer at the top of the
+queue every time, and both inside the top three every time. At transaction level
+it identifies 29% of the skimmed money. It reports the second number as plainly
+as the first.
 
 [Open the case dashboard](https://samuelatokwamebaah.github.io/microfinance-fraud-detection)
 
