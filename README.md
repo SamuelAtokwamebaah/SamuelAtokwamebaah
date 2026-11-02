@@ -36,12 +36,26 @@ as the first.
 
 [Open the case dashboard](https://samuelatokwamebaah.github.io/microfinance-fraud-detection)
 
+**[related-party-lending-network](https://github.com/SamuelAtokwamebaah/related-party-lending-network)**
+asks how the insiders behind those failures were connected. The institutions,
+their owners, holding companies and connected borrowers are modelled as a graph
+built only from what two regulators and one Court of Appeal judgment published.
+Every node and every edge carries a quoted passage and a line number, and the
+loader refuses to build if a quotation is not verbatim at the line it cites. The
+graph falls into 17 disconnected structures rather than one network, and that
+negative result is the finding. Two things do cross between institutions, one
+entity and one closed funding loop, and neither is visible in either regulator's
+notice on its own.
+
+[Open the map](https://samuelatokwamebaah.github.io/related-party-lending-network)
+
 ## In development
 
-A network analysis of the insider relationships behind the 2019 savings and
-loans failures, built only from what regulators and the courts have published,
-and a journal paper on supervisory timing under Act 930, currently under peer
-review.
+A journal paper on supervisory timing under Act 930, measuring the interval
+between the date the Bank of Ghana itself gives for an institution's insolvency
+and the date it revoked the licence, against what the statute requires of that
+timing. Currently under peer review. Its repository is published when the
+article is, so the code and the argument arrive together.
 
 ## Elsewhere
 
