@@ -8,8 +8,10 @@ and a half of them on the PwC Ghana-led receivership that handled 370 of the
 institutions closed in the 2017–2019 banking-sector clean-up: claims resolution,
 AML/KYC verification, fraud detection, and five branches with 100+ staff
 reporting in. I am now building the analytics layer on top of that operational
-base, in SQL, Python and Excel. IBM Data Analyst Professional Certificate and a
-B.Sc. Business Administration (GPA 3.80) both in progress.
+base, in SQL, Python and Excel. IBM Data Analyst Professional Certificate
+completed in 2026; B.Sc. Business Administration (GPA 3.86) in progress.
+This work runs as [JustWeight Analytics](https://justweight.netlify.app/):
+risk analytics, data integrity and Power BI reporting, Accra.
 
 ## Flagship work
 
